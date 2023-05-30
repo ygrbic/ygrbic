@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="13P.cl" tvg-logo="https://i.imgur.com/R6D228s.png" group-title="Lifestyle",13P
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="General",ChileVision
+http://chv-m3u.chorroaeboy.repl.co
+#EXTINF:-1 tvg-id="CHVNoticias.cl" tvg-logo="https://i.imgur.com/sx8Aaxr.png" group-title="News",CHV Noticias
+https://ythls.onrender.com/channel/UCRsUoZYC1ULUspipMRnMhwg.m3u8
+#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="",Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
